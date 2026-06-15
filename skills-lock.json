@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "skill-creator": {
+      "source": "cognitedata/builder-skills",
+      "sourceType": "github",
+      "skillPath": "skills/skill-creator/SKILL.md",
+      "computedHash": "5d87a277cc877ea3a81634ed1092e02ceb2db9c6b02799cf20b0403caeb1b3ee"
+    }
+  }
+}

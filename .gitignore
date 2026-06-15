@@ -1,0 +1,12 @@
+# OpenClaw local config and secrets — never push these
+.openclaw/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
